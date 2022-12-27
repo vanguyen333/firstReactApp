@@ -5,7 +5,7 @@ const App = () => {
   const isNameShowing = true;
   return (
     <div className="App">
-      <h1>Hello, {isNameShowing ? name : "someone!"}</h1>
+      <h1>Hello, {isNameShowing ? name : "somebody!"}</h1>
     </div>
   );
 };
