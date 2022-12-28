@@ -14,7 +14,7 @@ const App = () => {
   return (
     <div className="App">
       <Person name={"John"} lastName={"Doe"} age={30} />
-      <Person />
+      <Person name="marry" lastName={"Doe"} age={2 + 2} />
       <Person />
     </div>
   );
