@@ -14,6 +14,8 @@ const App = () => {
   return (
     <div className="App">
       <Person />
+      <Person />
+      <Person />
     </div>
   );
 };
